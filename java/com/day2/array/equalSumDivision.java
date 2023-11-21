@@ -18,7 +18,7 @@ public class equalSumDivision {
             System.out.println("Array should have an even number of elements for this program.");
             return;
         }
-        
+
         for (int i = 0; i < size; i++) {
             System.out.print("Enter element at position " + i + ": ");
             array[i] = scanner.nextInt();
